@@ -7,3 +7,18 @@ body{
     background-color: darkviolet;
     font-family: Arial;
 }
+
+.form-container{
+    background-color: whitesmoke;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0,0,0.1);
+    border-radius: 5px;
+}
+
+.form-container input{
+    display: block;
+    margin-bottom: 10px;
+    width: 100%;
+    padding: 10px;
+    box-sizing: border-box;
+}
